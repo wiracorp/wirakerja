@@ -1,5 +1,5 @@
 ![wira-kerja-banner](/public/img/logo.png)
 
-# Wira Kerja Landing Page
+# Wira Kerja Official Website
 
-Repository untuk Landing page Wira Kerja.
+Repository untuk Website Wira Kerja.
